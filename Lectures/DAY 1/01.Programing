@@ -1,0 +1,24 @@
+ Langauge  - to communicate to comp as it only understad binary language 
+ program - set of code or instruction which will give any specific task to comp 
+  
+  SYSTEM PROGRAM -- Manage system resources  and hardware 
+  APPLIATION PROGRAM  -- specific task ( browser,ms office)
+
+Languges--
+Low level Machine language (0,1(binary no.))-- system dependend ---- alot difer bit in differ system 
+Low level Assembly language --  use of Mnemonics (ADD,SUB,MOV) Coverted to mc lang trough assembler
+Low level >> High level (c,cpp,java,python)  
+
+Languges  translator --
+ASSEMBLER = Coverts Assembly language to machine lang 
+FOR HIGH LEVEL =
+1. Compiler -- Execite after whole program is written then give obj code and then get output
+ 
+ Translation , Linking , Loading 
+c,c++
+
+
+2.Interpreter -- Line by Line run and give direct output  (slower)(debugging is easy)
+translation and execution and runs parallely
+
+python,ruby

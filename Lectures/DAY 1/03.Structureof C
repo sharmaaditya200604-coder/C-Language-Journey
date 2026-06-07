@@ -1,0 +1,37 @@
+// 01. DOCUMENTATION SEC (Comment (//,/*--*/)all sec)
+author , date , brief description
+
+02. Link section (Header files )
+Provide built in fun to be used or accessed 
+  
+   
+                       #include<stdio.h>:
+# -- preprocessor
+stdio -- standard input output 
+.h-- extention files
+
+Provide fun as printf(for output) and scanf (for input)
+
+
+                      #include<conio.h>:conio-- console input output
+#include<maths.h> ,, #include<string.h>
+
+03. Defination sec -- to define a constant value
+
+#define pi=3.14(now anywhere in code where pi is writeen its going to give that value )
+
+04. Global Declaration sec 
+               --- Global (anywhere in the code is used)
+ variable ----
+                --- local (within func is used)
+
+ 05. Main section
+    void main()
+    {
+        Declaration part;
+
+        executable Part;
+    }               
+
+06. Sub program sec    (not complusory)
+user defined func 
